@@ -7,7 +7,9 @@ One of the last projects in [Udacity's self-driving car course](http://udacity.c
 This is somewhat similar to the very first project from the course, but the provided video from the car this time around is much more complicated than the previous one (contains curves, shadows, different lane colors, etc.).
 
 These are the steps for the pipeline which will be applied on the test video:
+
 ![alt tag](https://raw.githubusercontent.com/bdjukic/CarND-Advanced-Lane-Lines/master/md_images/2.jpg)
+
 I will go now into more details for each one of them.
 
 ### Camera calibration
